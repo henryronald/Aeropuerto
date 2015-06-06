@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CreateExcel/CreateExcel.iml" filepath="$PROJECT_DIR$/CreateExcel/CreateExcel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntelliJIdea.iml" filepath="$PROJECT_DIR$/IntelliJIdea.iml" />
+    </modules>
+  </component>
+</project>
